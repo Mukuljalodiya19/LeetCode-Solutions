@@ -28,6 +28,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0008-string-to-integer-atoi](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0151-reverse-words-in-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
