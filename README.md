@@ -21,6 +21,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0151-reverse-words-in-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
