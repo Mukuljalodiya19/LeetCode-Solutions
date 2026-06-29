@@ -15,6 +15,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0001-two-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0204-count-primes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
