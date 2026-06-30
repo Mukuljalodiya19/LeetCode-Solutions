@@ -32,6 +32,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [2390-removing-stars-from-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0724-find-pivot-index](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
