@@ -18,6 +18,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0011-container-with-most-water](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
