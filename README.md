@@ -123,6 +123,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -136,6 +137,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Bit Manipulation
@@ -156,4 +158,12 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
