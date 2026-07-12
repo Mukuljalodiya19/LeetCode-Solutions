@@ -9,6 +9,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0009-palindrome-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Array
@@ -30,6 +31,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
@@ -60,6 +62,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0392-is-subsequence) |
