@@ -12,6 +12,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0202-happy-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0507-perfect-number) |
 ## Array
 |  |
 | ------- |
