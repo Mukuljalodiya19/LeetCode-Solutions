@@ -1,18 +1,18 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
    
-ArrayList<Integer> myList=new ArrayList<>();
-for(int i=0; i <nums.length;i++){
-int x=Math.abs(nums[i])-1;
+Map<Integer, Integer> freq = new HashMap<>();
+        List<Integer> duplicates = new ArrayList<>();
 
-
-if(nums[x]>0){
-nums[x]=-nums[x];
-}else{
-myList.add(x+1);
-}
-}
-return myList;
-}
+        for (int num : nums) {
+            freq.put(num, freq.getOrDefault(num, 0) + 1);
+        }
+        for (Map.Entry<Integer, Integer> entry : freq.entrySet()) {
+            if (entry.getValue() > 1) {
+                duplicates.add(entry.getKey());
+            }
+        }
+        return duplicates;
     
+}
 }
