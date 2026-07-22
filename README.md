@@ -101,6 +101,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [2390-removing-stars-from-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -136,6 +137,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -151,6 +153,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -176,6 +179,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
