@@ -214,5 +214,6 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0627-swap-sex-of-employees](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
