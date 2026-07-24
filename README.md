@@ -211,4 +211,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
