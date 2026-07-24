@@ -35,6 +35,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3925-concatenate-array-with-reverse](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0054-spiral-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
 |  |
 | ------- |
