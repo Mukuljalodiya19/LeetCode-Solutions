@@ -29,6 +29,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0283-move-zeroes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -160,6 +161,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0374-guess-number-higher-or-lower](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
