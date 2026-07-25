@@ -22,6 +22,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0035-search-insert-position](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -180,6 +181,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String Matching
 |  |
