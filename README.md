@@ -23,6 +23,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0054-spiral-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -164,6 +166,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
