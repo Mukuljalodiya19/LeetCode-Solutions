@@ -18,6 +18,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0001-two-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -77,6 +78,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -136,6 +138,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
