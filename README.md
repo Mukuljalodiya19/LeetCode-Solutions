@@ -9,6 +9,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0009-palindrome-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -148,6 +149,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -255,4 +257,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
