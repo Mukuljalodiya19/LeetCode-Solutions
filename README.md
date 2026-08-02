@@ -39,6 +39,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0540-single-element-in-a-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -165,6 +166,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -196,6 +198,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0540-single-element-in-a-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
@@ -221,6 +224,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Interactive
