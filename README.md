@@ -39,6 +39,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0485-max-consecutive-ones](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -184,6 +185,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -261,6 +263,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
