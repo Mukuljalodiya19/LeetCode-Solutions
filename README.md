@@ -45,6 +45,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0724-find-pivot-index](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -257,6 +258,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Database
 |  |
 | ------- |
