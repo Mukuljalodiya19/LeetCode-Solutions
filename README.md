@@ -51,6 +51,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -65,6 +66,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -114,6 +116,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0443-string-compression](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -173,6 +176,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0217-contains-duplicate](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
