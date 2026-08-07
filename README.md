@@ -27,6 +27,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0075-sort-colors](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -151,6 +152,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
