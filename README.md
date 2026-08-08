@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0202-happy-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0507-perfect-number) |
 ## Array
 |  |
@@ -287,4 +288,24 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
