@@ -57,6 +57,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [1991-find-the-middle-index-in-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3731-find-missing-elements](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
