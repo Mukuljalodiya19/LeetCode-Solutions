@@ -55,6 +55,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -178,6 +180,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
