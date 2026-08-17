@@ -224,6 +224,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0035-search-insert-position](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -261,6 +262,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Depth-First Search
 |  |
