@@ -60,6 +60,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3731-find-missing-elements](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
