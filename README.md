@@ -16,6 +16,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0283-move-zeroes](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -76,6 +78,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0219-contains-duplicate-ii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -200,6 +203,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -338,4 +342,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
