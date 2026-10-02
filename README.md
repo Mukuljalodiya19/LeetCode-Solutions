@@ -17,6 +17,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0292-nim-game](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0867-transpose-matrix](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -81,6 +83,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0523-continuous-subarray-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -208,6 +211,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0713-subarray-product-less-than-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Simulation
@@ -269,6 +273,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0643-maximum-average-subarray-i](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Interactive
 |  |
