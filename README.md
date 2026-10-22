@@ -74,6 +74,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -93,6 +94,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
@@ -270,6 +272,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Mukuljalodiya19/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
